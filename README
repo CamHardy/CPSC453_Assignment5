@@ -1,0 +1,22 @@
+CPSC 453
+Assignment 5
+Cameron Hardy
+ID 10084560
+Dec. 12, 2016
+
+Howdy.
+Um, so I had a problem with the moon orbit, it works fine if the earth is stationary, but if the earth is travelling around its orbit then the moon orbit becomes elliptical. I have no idea why, I spent oodles of time trying to fix it but no luck. So yeah, the moon orbit is very elliptical PLS DON'T BE MAD.
+
+run make
+run ./boilerplate.cpp
+Built and tested on the first floor CompSci Linux computers
+You'll be on the dark side of the earth so it's pretty dark at first. 
+
+Press space to pause/play the animation.
+Press up/down to speed up/slow down the animation.
+Drag the mouse up/down/left/right to pan the camera.
+Use scroll wheel to zoom in/out
+Press 1/2/3 to focus on the sun/earth/moon.
+
+That's it.
+Was gonna do parallel universes that you could travel between but ran ot of time :(
